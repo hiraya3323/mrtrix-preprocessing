@@ -1,0 +1,19 @@
+# Mac system files
+.DS_Store
+
+# Raw diffusion files
+raw_data/
+*.mif
+*.nii
+*.nii.gz
+*.bval
+*.bvec
+
+# MRtrix temp and output files
+*.tmp
+*.log
+
+# Misc
+logs/
+preprocessed/
+
